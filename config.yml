@@ -1,15 +1,15 @@
 # site settings
 title: Heart Beat Stables
-subtitle: 
-email: mailto://heartbeatstables@outlook.com
+subtitle: Heart Beat Stables
+email: heartbeatstables@outlook.com
 description: An equestrian oasis 
 baseurl: "/_"
 url: # the base hostname & protocol for your site
-author:
+author: Tina V
 street_address: On-8 and Safari Rd.
 city: Shefeld 
 province: Ontario
-zip_code: 
+zip_code: L
 country: Canada
 phone: (555) 555-5555
 
@@ -17,20 +17,17 @@ phone: (555) 555-5555
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# 
-
-
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://facebook.com/heartbeatstables
 github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/heartbeatstables
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/heartbeatstables
 
 # build settings
 
