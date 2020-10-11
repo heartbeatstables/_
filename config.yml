@@ -1,7 +1,7 @@
 # site settings
 title: Heart Beat Stables
 subtitle: 
-email: heartbeatstables@outlook.com
+email: mailto://heartbeatstables@outlook.com
 description: An equestrian oasis 
 baseurl: "/_"
 url: # the base hostname & protocol for your site
@@ -9,7 +9,7 @@ author:
 street_address: On-8 and Safari Rd.
 city: Shefeld 
 province: Ontario
-zip_code: L
+zip_code: 
 country: Canada
 phone: (555) 555-5555
 
