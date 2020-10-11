@@ -1,0 +1,36 @@
+# site settings
+title: Heart Beat Stables
+subtitle: 
+email: heartbeatstables@outlook.com
+description: An equestrian oasis 
+baseurl: "/_"
+url: # the base hostname & protocol for your site
+author:
+street_address: On-8 and Safari Rd.
+city: Shefeld 
+province: Ontario
+zip_code: L
+country: Canada
+phone: (555) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+
+
+
+instagram_url: https://instagram.com
+
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/heartbeatstables
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
